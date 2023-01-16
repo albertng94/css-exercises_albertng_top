@@ -1,0 +1,18 @@
+.odd-number {
+    background-color: #d25f97c3;
+    font-family: "Verdana", "DejaVu Sans", "sans-serif";
+    }
+
+.over-sized {
+    font-size: 24px;
+}
+
+#unique {
+    color: rgb(16, 16, 250);
+    font-size: 36px;
+}
+
+#green-background {
+    background-color: hsla(138, 76%, 63%, 0.758);
+    font-weight: bold;
+}
